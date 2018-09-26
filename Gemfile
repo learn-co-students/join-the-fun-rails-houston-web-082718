@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 
+gem 'pry'
+
 gem 'rails', '~> 4.2'
 
 gem 'rake', '< 11.0'
